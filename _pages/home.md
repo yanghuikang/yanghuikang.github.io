@@ -3,7 +3,7 @@ permalink: /home/
 title: ""
 author_profile: true
 header:
-    image: /assets/images/header_photo.jpeg
+    overlay_image: /assets/images/header_photo.jpeg
     caption: Greak Smoky National Park
 excerpt: ''
 ---

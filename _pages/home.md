@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 header:
     overlay_image: /assets/images/header_photo.jpeg
-    caption: Photo taken at the Greak Smoky National Park
+    caption: Greak Smoky National Park
 excerpt: ''
 ---
 

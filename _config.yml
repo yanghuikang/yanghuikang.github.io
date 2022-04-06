@@ -60,32 +60,23 @@ plugins:
 author:
   name   : "Yanghui Kang"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Postdoctoral Reseracher"
+  bio    : "Postdoctoral Reseracher \n University of California, Berkeley"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "yanghuikang@berkeley.edu"
-    - label: "Twitter"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yanghuikang"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/yanghuikang"
 
 defaults:
   # _posts

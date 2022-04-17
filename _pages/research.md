@@ -17,7 +17,7 @@ feature_row1:
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Mapping Leaf Area Index"
-    excerpt: |
+    excerpt: >
         Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. Robust estimation of LAI is critical understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high (decametric) spatial resolutions and evaluate how uncertainties in LAI estimation impact the modeling of water fluxes. <br />
         **Kang, Y.**, Ozdogan, M., Gao, F., et al. (2021). A data-driven approach to estimate leaf area index for Landsat images over the contiguous US. Remote Sensing of Environment, 258, 112383. [doi.org/10.1016/j.rse.2021.112383](https://doi.org/10.1016/j.rse.2021.112383)  <br />
         **Kang, Y.**, Özdoğan, M., Zipper, S. C., et al. (2016). How universal is the relationship between remotely sensed vegetation indices and crop leaf area index? A global assessment. Remote Sensing, 8(7), 597. [doi.org/10.3390/rs8070597](https://doi.org/10.3390/rs8070597)  <br />

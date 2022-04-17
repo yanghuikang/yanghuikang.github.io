@@ -2,6 +2,7 @@
 permalink: /home/
 title: "About me"
 author_profile: true
+layout: single
 header:
     overlay_image: /assets/images/header_photo.jpeg
     caption: Greak Smoky National Park

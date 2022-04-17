@@ -17,11 +17,12 @@ feature_row1:
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Mapping Leaf Area Index"
-    excerpt: "Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. It is major variables to understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high spatial resolutions, e.g. Landsat/Sentinel-2.
-    
-    Kang, Y. LAI ...
-    
-    Kang, Y. Data-drive ..."
+    excerpt: |
+        Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. It is major variables to understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high spatial resolutions, e.g. Landsat/Sentinel-2. 
+        <br />
+        Kang, Y. LAI ...
+        <br />        
+        Kang, Y. Data-drive ..."
     url: https://github.com/yanghuikang/Landsat-LAI
     btn_label: "GEE code for Landsat-LAI"
     btn_class: "btn--primary"
@@ -31,4 +32,4 @@ feature_row2:
 ## Research Projects
 
 {% include feature_row id="feature_row1" type="left" %}  
-{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}

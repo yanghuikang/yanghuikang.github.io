@@ -1,6 +1,6 @@
 ---
 permalink: /home/
-title: ""
+title: "About me"
 author_profile: true
 header:
     overlay_image: /assets/images/header_photo.jpeg

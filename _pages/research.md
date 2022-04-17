@@ -18,11 +18,10 @@ feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
     title: "Mapping Leaf Area Index"
     excerpt: |
-        Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. Robust estimation of LAI is critical understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high spatial resolutions, e.g. Landsat/Sentinel-2. <br />
-        Kang, Y., Ozdogan, M., Gao, F., et al. (2021). A data-driven approach to estimate leaf area index for Landsat images over the contiguous US. Remote Sensing of Environment, 258, 112383. [https://doi.org/10.1016/j.rse.2021.112383](https://doi.org/10.1016/j.rse.2021.112383)  <br />
-Kang, Y., Özdoğan, M., Zipper, S. C., et al. (2016). How universal is the relationship between remotely sensed vegetation indices and crop leaf area index? A global assessment. Remote Sensing, 8(7), 597. [https://doi.org/10.3390/rs8070597](https://doi.org/10.3390/rs8070597)  <br />
-Marshall, M., Okuto, E., Kang, Y., et al. (2016). Global assessment of Vegetation Index and Phenology Lab (VIP) and Global Inventory Modeling and Mapping Studies (GIMMS) version 3 products. Biogeosciences, 13(3), 625–639. [https://doi.org/10.5194/bg-13-625-2016](https://doi.org/10.5194/bg-13-625-2016)       
-
+        Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. Robust estimation of LAI is critical understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high (decametric) spatial resolutions and evaluate how uncertainties in LAI estimation impact the modeling of water fluxes. <br />
+        **Kang, Y.**, Ozdogan, M., Gao, F., et al. (2021). A data-driven approach to estimate leaf area index for Landsat images over the contiguous US. Remote Sensing of Environment, 258, 112383. [doi.org/10.1016/j.rse.2021.112383](https://doi.org/10.1016/j.rse.2021.112383)  <br />
+        **Kang, Y.**, Özdoğan, M., Zipper, S. C., et al. (2016). How universal is the relationship between remotely sensed vegetation indices and crop leaf area index? A global assessment. Remote Sensing, 8(7), 597. [doi.org/10.3390/rs8070597](https://doi.org/10.3390/rs8070597)  <br />
+        Marshall, M., Okuto, E., **Kang, Y.**, et al. (2016). Global assessment of Vegetation Index and Phenology Lab (VIP) and Global Inventory Modeling and Mapping Studies (GIMMS) version 3 products. Biogeosciences, 13(3), 625–639. [doi.org/10.5194/bg-13-625-2016](https://doi.org/10.5194/bg-13-625-2016)      
     url: https://github.com/yanghuikang/Landsat-LAI
     btn_label: "GEE code for Landsat-LAI"
     btn_class: "btn--primary"

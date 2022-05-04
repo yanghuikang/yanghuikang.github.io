@@ -10,7 +10,7 @@ header:
     caption: Greak Smoky National Park
 ---
 
-## Education
+### Education
 
 `2020`
 Ph.D. in Geography, University of Wisconsin-Madison
@@ -25,7 +25,7 @@ M.S. in Environment and Resources, University of Wisconsin-Madison
 B.S. in Geographical Information System, Beijing Normal University
 
 
-## Profesional Experience
+### Profesional Experience
 
 `2021-present`
 Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley
@@ -40,7 +40,7 @@ Research Scientist, Agrograph
 Research Assistant, OpenET Project
 
 
-## Grants and Awards
+### Grants and Awards
 
 `2020`
 Olmstead Award for Outstanding Publication, Geography, UW-Madison

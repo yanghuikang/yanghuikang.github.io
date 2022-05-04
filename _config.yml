@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Yanghui Kang"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Postdoctoral Reseracher \n University of California, Berkeley"
+  bio    : "Postdoctoral Reseracher <br /> University of California, Berkeley"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -33,7 +33,7 @@ A list is also available @[Google Scholar](https://scholar.google.com/citations?
 
 [4] Levitan, N., **Kang, Y.**, Özdoğan, M., Magliulo, V., Castillo, P., Moshary, F., Gross, B. (2019) Evaluation of the Uncertainty in Satellite-based Crop State Variable Retrievals Due to Site and Growth Stage Specific Factors and their Potential in Coupling with Crop Growth Models. Remote Sensing 11(16): 1982 
 
-[3]. **Kang, Y.**, Özdoğan, M., Zipper, S.C., Román, M.O., Walker, J., Hong, S. Y., Marshall, M., Magliulo, V., Moreno, J., Alonso, L., Miyata, A., Kimball, B., and Loheide S. P., II. (2016). How Universal is the Relationship between Remotely Sensed 1 Vegetation Indices and Crop Leaf Area Index? A Global Assessment. Remote Sens 8(7): 597  
+[3] **Kang, Y.**, Özdoğan, M., Zipper, S.C., Román, M.O., Walker, J., Hong, S. Y., Marshall, M., Magliulo, V., Moreno, J., Alonso, L., Miyata, A., Kimball, B., and Loheide S. P., II. (2016). How Universal is the Relationship between Remotely Sensed 1 Vegetation Indices and Crop Leaf Area Index? A Global Assessment. Remote Sens 8(7): 597  
 
 [2] Marshall, M., Okuto, E., **Kang, Y.**, Opiyo, E., Ahmed, M. (2015). Assessment of Earth Observation Based Long-term Global vegetation Records for Agro-ecosystems. Biogeoscience. 12, 9081-9120. doi:10.5194/bgd-12-9081-2015  
 

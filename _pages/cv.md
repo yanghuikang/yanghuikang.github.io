@@ -13,43 +13,44 @@ header:
 ## Education
 
 `2020`
-__Ph.D. in Geography, University of Wisconsin-Madison__
+Ph.D. in Geography, University of Wisconsin-Madison
 
 `2018`
-__M.S. in Computer Sciences, University of Wisconsin-Madison__
+M.S. in Computer Sciences, University of Wisconsin-Madison
 
 `2013`
-__M.S. in Environment and Resources, University of Wisconsin-Madison__
+M.S. in Environment and Resources, University of Wisconsin-Madison
 
 `2011`
-__B.S. in Geographical Information System, Beijing Normal University__
+B.S. in Geographical Information System, Beijing Normal University
 
 
 ## Profesional Experience
 
 `2021-present`
-Postdoctoral Researcher (Supervisor: Trevor Keenan), University of California, Berkeley
+Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley
 
 `2020-2021`
-__Postdoctoral Fellow (Supervisor: Feng Gao, Martha Anderson), USDA-ARS, Hydrology and Remote Sensing Laboratory__
+Postdoctoral Fellow (Advisor: Feng Gao, Martha Anderson), USDA-ARS, Hydrology and Remote Sensing Laboratory
 
 `2019-2020`
-__Research Scientist, Agrograph__
+Research Scientist, Agrograph
 
 `2018-2019`
-__Research Assistant, OpenET Project, UW-Madison__
+Research Assistant, OpenET Project
 
 
 ## Grants and Awards
 
 `2020`
-__Olmstead Award for Outstanding Publication, Geography, UW-Madison__
+Olmstead Award for Outstanding Publication, Geography, UW-Madison
 
 `2018`
-__Best Poster Award, UCGIS Symposium and CaGIS AutoCarto__
+Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
 
 `2012-2015`
-__BNASA Earth and Space Science Fellowship__
+BNASA Earth and Space Science Fellowship
 
+  
 
 Most recent CV [link](https://www.dropbox.com/s/aezezv1p8trakx1/CV_Kang.pdf?dl=0)

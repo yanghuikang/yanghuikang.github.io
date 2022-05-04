@@ -1,17 +1,14 @@
 ---
 permalink: /cv/
+title: "CV"
 author_profile: true
 type: page
 classes: wide
 layout: single
-title: "CV"
 header:
     overlay_image: /assets/images/header_photo.jpeg
     caption: Greak Smoky National Park
-
 ---
-
-Most recent CV [link] (https://www.dropbox.com/s/aezezv1p8trakx1/CV_Kang.pdf?dl=0)
 
 ## Education
 
@@ -29,3 +26,12 @@ __B.S. in Geographical Information System, Beijing Normal University__
 
 
 ## Profesional Experience
+
+`2021-present`
+__Postdoctoral Researcher (Supervisor: Trevor Keenan), University of California, Berkeley__
+
+`2020-2021`
+__Postdoctoral Fellow (Supervisor: Feng Gao, Martha Anderson), USDA-ARS, Hydrology and Remote Sensing Laboratory__
+
+
+Most recent CV [link] (https://www.dropbox.com/s/aezezv1p8trakx1/CV_Kang.pdf?dl=0)

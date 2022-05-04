@@ -33,9 +33,9 @@ feature_row3:
     excerpt: >
         Robust and timely estimations of crop yields in a spatially explicit manner provide essential information to farmers, private partners, and policy-makers. I employ both machine learning and crop growth modeling approaches to improve the accuracy and reliability of crop yield estimations across spatial scales over large areas.  For example, I developed a hierarchical data assimilation framework to combine mechanistic crop modeling and satellite observations to estimate crop yield at individual field levels in the Midwest US. I also explored the strength of novel machine/deep learning algorithms to provide a timely forecast of yields at county levels. <br /> 
         <br /> 
-        **Kang, Y.**, & Özdoğan, M. (2019). Field-level crop yield mapping with Landsat using a hierarchical data assimilation approach. *Remote Sensing of Environment*, *228*, 144–163. [link] (https://doi.org/10.1016/j.rse.2019.04.005) <br />
-        **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link] (https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
-        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link] (https://doi.org/10.1016/j.rse.2021.112408)    
+        **Kang, Y.**, & Özdoğan, M. (2019). Field-level crop yield mapping with Landsat using a hierarchical data assimilation approach. *Remote Sensing of Environment*, *228*, 144–163. [link](https://doi.org/10.1016/j.rse.2019.04.005) <br />
+        **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link](https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
+        Yuchi, M., Zhang, Z., **Kang, Y.**, & Ozdogan, M. (2021). Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. *Remote Sensing of Environment*, *258*, 112408. [link](https://doi.org/10.1016/j.rse.2021.112408)    
 ---
 
 ## Research Projects

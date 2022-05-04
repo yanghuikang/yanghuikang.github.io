@@ -42,6 +42,9 @@ Research Assistant, OpenET Project
 
 ### Grants and Awards
 
+`2020-2021`
+SCINet Fellowship, USDA, Agricultural Research Service 
+
 `2020`
 Olmstead Award for Outstanding Publication, Geography, UW-Madison
 

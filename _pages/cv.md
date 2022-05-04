@@ -54,6 +54,4 @@ Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
 `2012-2015`
 BNASA Earth and Space Science Fellowship
 
-  
 
-Most recent CV [link](https://www.dropbox.com/s/5kc5o0rmikif936/CV_Kang.pdf?dl=0)

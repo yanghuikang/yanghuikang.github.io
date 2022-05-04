@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 type: page
 classes: wide
 layout: single
@@ -13,7 +13,7 @@ header:
 
 ## Publications
   
-A list is also available [online](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ)
+A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ)
   
 [12] **Kang, Y.**, Gao, F., Anderson, M., Kustas, W., Yang, Y., White, W., Torres-Rua, A., Alsina, M., Nieto, H., Karneli, A. (2022) Evaluating satellite LAI in California vineyards for improving water use estimation. Accepted. Irrigation Science.  
 

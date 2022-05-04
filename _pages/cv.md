@@ -52,6 +52,6 @@ Olmstead Award for Outstanding Publication, Geography, UW-Madison
 Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
 
 `2012-2015`
-BNASA Earth and Space Science Fellowship
+NASA Earth and Space Science Fellowship
 
 

@@ -16,7 +16,7 @@ feature_row1:
 
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
-    title: "Mapping Leaf Area Index"
+    title: "Quantifying vegetation structural dynamics"
     excerpt: >
         Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. Robust estimation of LAI is critical understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high (decametric) spatial resolutions and evaluate how uncertainties in LAI estimation impact the modeling of water fluxes. <br />
         <br />

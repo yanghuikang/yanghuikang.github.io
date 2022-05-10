@@ -12,7 +12,7 @@ header:
 feature_row1:
   - image_path: assets/images/photosynthesis_CAS.png
     title: "Machine Learning Upscaling of Terrestrial Carbon Fluxes"
-    excerpt: "**Photosynthesis** consitutes the largest yet most uncertain flux in terrestrial carbon cycle. By far, the most accurate measurements of ecosystem-level photosynthesis, also called the Gross Primary Productivity (GPP), come from networks of eddy covariance flux towers. Flux sites, however, are only sparsely and evenly distributed, and thus unable to inform the spatial and temporal dynamics of GPP at global scale. Here we combine machine learning and physical constraints to upscale GPP measurements from flux tower sites to wall-to-wall global maps. We aim to rescontruct the temporal GPP variability induced by both climate and land surface changes."
+    excerpt: "**Photosynthesis** constitutes the largest yet most uncertain flux in the terrestrial carbon cycle. Ecosystem-level photosynthesis, often termed as Gross Primary Productivity (GPP), can be measured from networks of eddy covariance flux towers. Flux sites, however, are only sparsely and evenly distributed, and thus unable to inform the spatial and temporal dynamics of GPP at the global scale. Here we combine machine learning and physical constraints to upscale GPP measurements from flux tower sites to wall-to-wall global maps. We aim to reconstruct the temporal GPP dynamics induced by both climate (such as CO2) and land surface changes."
 
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg

@@ -64,11 +64,14 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "yanghuikang@berkeley.edu"
     - label: "Google Scholar"
-      icon: "fa-solid fa-graduation-cap"
+      icon: "fa-regular fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yanghuikang"
+    - label: "Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/yanghui-kang-797aa33a/"
 
 footer:
   links:

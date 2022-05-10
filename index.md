@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Welcome"
 author_profile: true
 layout: single
 header:

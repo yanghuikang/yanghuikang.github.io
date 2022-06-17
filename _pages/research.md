@@ -21,10 +21,11 @@ feature_row2:
         Leaf area index (LAI) is a structural biophysical variable describing the amount leaves that plant canopies have. Robust estimation of LAI is critical understand carbon, water, and enbergy exchange between plant, soil, atmosphere. I use statistical and machine learning approaches to quantify LAI from local to global scales at high (decametric) spatial resolutions and evaluate how uncertainties in LAI estimation impact the modeling of water fluxes. <br />
         <br />
         **Kang, Y.**, Ozdogan, M., Gao, F., et al. (2021). A data-driven approach to estimate leaf area index for Landsat images over the contiguous US. Remote Sensing of Environment, 258, 112383. [link](https://doi.org/10.1016/j.rse.2021.112383)  <br />
+        **Kang, Y.**, Gao, F., Anderson, M. et al. Evaluation of satellite Leaf Area Index in California vineyards for improving water use estimation. Irrig Sci (2022). [link](https://doi.org/10.1007/s00271-022-00798-8) <br />
         **Kang, Y.**, Özdoğan, M., Zipper, S. C., et al. (2016). How universal is the relationship between remotely sensed vegetation indices and crop leaf area index? A global assessment. Remote Sensing, 8(7), 597. [link](https://doi.org/10.3390/rs8070597)  <br />
         Marshall, M., Okuto, E., **Kang, Y.**, et al. (2016). Global assessment of Vegetation Index and Phenology Lab (VIP) and Global Inventory Modeling and Mapping Studies (GIMMS) version 3 products. Biogeosciences, 13(3), 625–639. [link](https://doi.org/10.5194/bg-13-625-2016)      
     url: https://github.com/yanghuikang/Landsat-LAI
-    btn_label: "GEE code for Landsat-LAI"
+    btn_label: "Landsat-LAI on GEE"
     btn_class: "btn--primary"
 
 feature_row3:

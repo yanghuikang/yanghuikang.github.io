@@ -15,7 +15,7 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ)
   
-[12] **Kang, Y.**, Gao, F., Anderson, M., Kustas, W., Yang, Y., White, W., Torres-Rua, A., Alsina, M., Nieto, H., Karneli, A. (2022) Evaluating satellite LAI in California vineyards for improving water use estimation. Accepted. Irrigation Science.  
+[12] **Kang, Y.**, Gao, F., Anderson, M., Kustas, W., Yang, Y., White, W., Torres-Rua, A., Alsina, M., Nieto, H., Karneli, A. (2022) Evaluating satellite LAI in California vineyards for improving water use estimation. Irrigation Science. https://doi.org/10.1007/s00271-022-00798-8    
 
 [11] **Kang, Y.**, Özdoğan, M, Gao, F., Anderson, M., White, W., Yang, Y., Yang, Y., Erickson, T. (2021) A data-driven approach to estimate Leaf Area Index for Landsat images over the contiguous US. Remote Sensing of Environment 258, 112383  
 

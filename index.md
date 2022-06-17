@@ -4,7 +4,7 @@ author_profile: true
 layout: single
 classes: wide
 header:
-    overlay_image: /assets/images/header_photo.jpeg
+    overlay_image: /assets/images/header_photo_small.jpeg
     caption: Greak Smoky National Park
 excerpt: ''
 ---

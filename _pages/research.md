@@ -6,7 +6,7 @@ classes: wide
 layout: single
 title: "Research"
 header:
-    overlay_image: /assets/images/header_photo.jpeg
+    overlay_image: /assets/images/header_photo_small.jpg
     caption: Greak Smoky National Park
 
 feature_row1:

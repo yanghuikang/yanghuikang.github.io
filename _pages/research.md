@@ -13,11 +13,11 @@ feature_row1:
   - image_path: assets/images/photosynthesis_CAS.png
     title: "Machine Learning Upscaling of Terrestrial Carbon Fluxes"
     excerpt: >
-        "**Photosynthesis** constitutes the largest yet most uncertain flux in the terrestrial carbon cycle. Ecosystem-level photosynthesis, often termed as Gross Primary Productivity (GPP), can be measured from networks of eddy covariance flux towers. Flux sites, however, are only sparsely and evenly distributed, and thus unable to inform the spatial and temporal dynamics of GPP at the global scale. Here we combine machine learning and physical constraints to upscale GPP measurements from flux tower sites to wall-to-wall global maps. We aim to reconstruct the temporal GPP dynamics induced by both climate (such as CO2) and land surface changes." <br />
+        **Photosynthesis** constitutes the largest yet most uncertain flux in the terrestrial carbon cycle. Ecosystem-level photosynthesis, often termed as Gross Primary Productivity (GPP), can be measured from networks of eddy covariance flux towers. Flux sites, however, are only sparsely and evenly distributed, and thus unable to inform the spatial and temporal dynamics of GPP at the global scale. Here we combine machine learning and physical constraints to upscale GPP measurements from flux tower sites to wall-to-wall global maps. We aim to reconstruct the temporal GPP dynamics induced by both climate (such as CO2) and land surface changes. <br />
         <br />
         **Kang, Y.**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T. (2023): CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization, Earth Syst. Sci. Data Discuss. [preprint](https://doi.org/10.5194/essd-2023-337), in review, 2023.   <br />
         Gaber, M., **Kang, Y.**, Schurgers, G., and Keenan, T. (2023): Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences Discuss. [preprint](https://doi.org/10.5194/bg-2023-141), in review, 2023.  <br />
-        Nakagawa, R., Chau, M., Calzaretta, J., ... , **Kang, Y.** et al. (2023). Upscaling Global Hourly GPP with Temporal Fusion Transformer (TFT). CVPR MultiEarth Workshop 2023. [paper](https://doi.org/10.3390/rs8070597](https://arxiv.org/pdf/2306.13815.pdf) 
+        Nakagawa, R., Chau, M., Calzaretta, J., ... , **Kang, Y.** et al. (2023). Upscaling Global Hourly GPP with Temporal Fusion Transformer (TFT). CVPR MultiEarth Workshop 2023. [paper](https://arxiv.org/pdf/2306.13815.pdf) 
 
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg

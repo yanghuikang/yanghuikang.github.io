@@ -15,9 +15,11 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ)
 
-[15] **Kang, Y.<sup>*</sup>**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T (2023).: CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization. Earth Syst. Sci. Data Discuss. [preprint], [https://doi.org/10.5194/essd-2023-337](https://doi.org/10.5194/essd-2023-337), 2023.    
+[16] Volk, J.M., et al. [including **Kang, Y.**], (2024).: Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
 
-[14] Gaber, M., **Kang, Y.<sup>*</sup>**, Schurgers, G., and Keenan, T (2023).: Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences Discuss. [preprint], [https://doi.org/10.5194/bg-2023-141](https://doi.org/10.5194/bg-2023-141), 2023.    
+[15] **Kang, Y.<sup>*</sup>**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T (2023).: CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization. Earth Syst. Sci. Data Discuss. [preprint], [https://doi.org/10.5194/essd-2023-337](https://doi.org/10.5194/essd-2023-337)   
+
+[14] Gaber, M., **Kang, Y.<sup>*</sup>**, Schurgers, G., and Keenan, T (2023).: Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences Discuss. [preprint], [https://doi.org/10.5194/bg-2023-141](https://doi.org/10.5194/bg-2023-141),    
 
 [13] Nakagawa, R., Chau, M., Calzaretta, J., Keenan, T., Vahabi, P., Todeschini, A., Bassiouni, M., **Kang, Y.<sup>*</sup>** (2023) Upscaling Global Hourly GPP with Temporal Fusion Transformer (TFT). CVPR 2023 Workshop on Multimodal Learning for Earth and Environment. [https://doi.org/10.48550/arXiv.2306.13815](https://doi.org/10.48550/arXiv.2306.13815)    
 

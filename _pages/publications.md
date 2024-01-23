@@ -15,7 +15,9 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ)
 
-[16] Volk, J.M., et al. [including **Kang, Y.**], (2024).: Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
+[17] Volk, J.M., et al. [including **Kang, Y.**], (2024).: Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
+
+[16] Zhou, J., Yang, Q., Liu, L., **Kang, Y.**, Jia, X., Chen, M., Ghosh, R., Xu, S., Jiang, C., Guan, K., Kumar, V., and Jin, Z. (2023): A deep transfer learning framework for mapping high spatiotemporal resolution LAI, ISPRS Journal of Photogrammetry and Remote Sensing, 206, 30–48, [https://doi.org/10.1016/j.isprsjprs.2023.10.017](https://doi.org/10.1016/j.isprsjprs.2023.10.017)
 
 [15] **Kang, Y.<sup>*</sup>**, Gaber, M., Bassiouni, M., Lu, X., and Keenan, T (2023).: CEDAR-GPP: spatiotemporally upscaled estimates of gross primary productivity incorporating CO2 fertilization. Earth Syst. Sci. Data Discuss. [preprint], [https://doi.org/10.5194/essd-2023-337](https://doi.org/10.5194/essd-2023-337)   
 

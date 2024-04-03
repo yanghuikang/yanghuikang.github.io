@@ -35,7 +35,7 @@ A list is also available @[Google Scholar](https://scholar.google.com/citations?
 
 [9] Ma, Y., Zhang, Z., **Kang, Y.**, Özdoğan. (2021) Corn yield prediction and uncertainty analysis based on remotely sensed variables using a Bayesian neural network approach. Remote Sensing of Environment 259, 112408. [https://doi.org/10.1088/1748-9326/ab7df9](https://doi.org/10.1088/1748-9326/ab7df9)  
 
-[8] **Kang, Y.<sup>*</sup>**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C.R., Anderson, M.C. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. Environ. Res. Lett. 15:064005. [https://doi.org/10.1088/1748-9326/ab7df9](https://doi.org/10.1088/1748-9326/ab7df9)  
+[8] **Kang, Y.<sup>*</sup>**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C.R., Anderson, M.C. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. Environ. Res. Lett. 15:064005. [https://doi.org/10.1088/1748-9326/ab7df9](https://doi.org/10.1088/1748-9326/ab7df9) ([IOP Top Cited Paper Award](https://ioppublishing.org/north-america-top-cited-paper-award/))
 
 [7] Ren, T., Liu, Z., Zhang, L., Liu, D., Xi, X., **Kang, Y.**, Zhao, Y., Zhang, C., Li, S., Zhang, X. (2020). Early Identification of Seed Maize and Common Maize Production Fields Using Sentinel-2 Images. Remote Sens 12(13): 2140. [https://doi.org/10.3390/rs12132140](https://doi.org/10.3390/rs12132140)  
 

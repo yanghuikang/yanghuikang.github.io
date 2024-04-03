@@ -12,7 +12,7 @@ excerpt: ''
 <div style="background-color: #e9e9dc; padding: 10px;"> I am a postdoctoral researcher at UC Berkeley working with Dr. Trevor Keenan. My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change.  </div> 
 
 ### News
-* **March 2024:** Excitec to receive the NASA early career investigator award for developing a remote sensing-based monitoring system for Nature-Based Climate Solutions.
+* **March 2024:** Excited to receive the NASA early career investigator award for developing a remote sensing-based monitoring system for Nature-Based Climate Solutions.
 * **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
 * **December 2023:** For the second year in a row, hosted our innovative session on "Emerging Machine Learning Approaches for Process Understanding in Ecosystem Sciences" at AGU.
 * **December 2023:** Presented our CEDAR-GPP dataset at the AGU, offering vital spatiotemporal estimates of GPP that incorporates the CO2 fertilization effect.

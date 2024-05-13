@@ -15,7 +15,9 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ); <sup>*</sup> denotes corresponding author.
 
-[18] Volk, J.M., et al. [including **Kang, Y.**], (2024).: Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
+[19] Mallick, K., et al. [including **Kang, Y.**] (2024): Net fluxes of broadband shortwave and photosynthetically active radiation complement NDVI and near infrared reflectance of vegetation to explain gross photosynthesis variability across ecosystems and climate. Remote Sensing of Environment, 307, 114123. [https://doi.org/10.1016/j.rse.2024.114123](https://doi.org/10.1016/j.rse.2024.114123)
+
+[18] Volk, J.M., et al. [including **Kang, Y.**] (2024): Assessing the accuracy of OpenET satellite-based evapotranspiration data to support water resource and land management applications. Nat Water 1–13. [https://doi.org/10.1038/s44221-023-00181-7](https://doi.org/10.1038/s44221-023-00181-7)  
 
 [17] **Kang, Y.<sup>*</sup>**, Ozdogan, M., Gao, F., Anderson, M., and Keenan, T. (2023): An Operational Data-Driven Framework For Developing High-Resolution Leaf Area Index Products, in: IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, 2185–2187, [https://doi.org/10.1109/IGARSS52108.2023.10283064]( https://doi.org/10.1109/IGARSS52108.2023.10283064)
 

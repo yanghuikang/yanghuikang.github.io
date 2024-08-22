@@ -24,11 +24,11 @@ Qualifications:
 
 Application process:
 
-Interested candidates, please email a brief description of research interests and experiences along with a CV to Dr. Yanghui Kang (yanghuikang@vt.edu). 
+Interested candidates, please email a brief description of research interests and experiences along with a CV to Dr. Yanghui Kang (<yanghuikang@vt.edu>). 
 
 The application deadline for the Department of Biological Systems Engineering’s graduate program is January 5, 2025.
 
 
 ## Postdoc Opportunities
 
-We will have postdoc openings very soon in areas of nature-based climate solutions, remote sensing of ecosystems, deep learning, and agroecosystem modeling. Please stay tuned and do not hesitate to contact Dr. Yanghui Kang (yanghuikang@vt.edu) for more information. Please include a brief description of research interests and a CV in the email.
+We will have postdoc openings very soon in areas of nature-based climate solutions, remote sensing of ecosystems, deep learning, and agroecosystem modeling. Please stay tuned and do not hesitate to contact Dr. Yanghui Kang (<yanghuikang@vt.edu>) for more information. Please include a brief description of research interests and a CV in the email.

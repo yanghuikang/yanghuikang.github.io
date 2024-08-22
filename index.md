@@ -10,10 +10,9 @@ excerpt: ''
 ---
 
 
-
-<div style="background-color: #e9e9dc; padding: 10px;"> 
     I am excited to anounce that I will be joining the Department of Biological Systems Engineering at Virginia Tech University as an assistant professor in Oct 2024! **I'm actively seeking highly motivated PhD student and postdoctoral reserachers to join our group. For more details, please visit [this page]({% link _pages/join_us.md %})**. <br />
-    My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change.  
+
+<div style="background-color: #e9e9dc; padding: 10px;"> My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change.  
 </div> 
 
 ### News

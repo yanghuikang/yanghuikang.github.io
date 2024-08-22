@@ -9,7 +9,9 @@ header:
 excerpt: ''
 ---
 
-<div style="background-color: #e9e9dc; padding: 10px;"> I am a postdoctoral researcher at UC Berkeley working with Dr. Trevor Keenan. My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change.  </div> 
+<div style="background-color: #e9e9dc; padding: 10px;"> 
+    I am excited to anounce that I will be joining the Department of Biological Systems Engineering at Virginia Tech University as an assistant professor in Oct 2024! **I'm actively seeking highly motivated PhD student and postdoctoral reserachers to join our group. For more details, please visit [this page]({% link _pages/document.md %})**. <br />
+    My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change.  </div> 
 
 ### News
 * **March 2024:** Excited to receive the NASA early career investigator award for developing a remote sensing-based monitoring system for Nature-Based Climate Solutions.

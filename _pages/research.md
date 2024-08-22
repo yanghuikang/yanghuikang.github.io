@@ -50,7 +50,7 @@ feature_row4:
     url: https://github.com/yanghuikang/Landsat-LAI
     btn_label: "Landsat-LAI GEE code"
     btn_class: "btn--primary"
-
+---
 
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}  

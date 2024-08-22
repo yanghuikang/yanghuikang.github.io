@@ -2,7 +2,7 @@
 permalink: /research/
 author_profile: false
 type: page
-classes: wide
+classes: wide2
 layout: single
 title: "Research"
 header:

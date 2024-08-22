@@ -15,6 +15,8 @@ header:
   
 A list is also available @[Google Scholar](https://scholar.google.com/citations?hl=en&user=h0Xg90gAAAAJ); <sup>*</sup> denotes corresponding author.
 
+[20] Wan, L., et al. [including **Kang, Y.**] (2024).: Correcting confounding canopy structure, biochemistry and soil background effects improves leaf area index estimates across diverse ecosystems from Sentinel-2 imagery, Remote Sensing of Environment, 309, 114224. [https://doi.org/10.1016/j.rse.2024.114224](https://doi.org/10.1016/j.rse.2024.114224)
+
 [19] Gaber, M., **Kang, Y.<sup>*</sup>**, Schurgers, G., and Keenan, T (2024).: Using automated machine learning for the upscaling of gross primary productivity, Biogeosciences, 21, 2447-2472. [https://doi.org/10.5194/bg-2023-141](https://doi.org/10.5194/bg-21-2447-2024)
 
 [18] Mallick, K., et al. [including **Kang, Y.**] (2024): Net fluxes of broadband shortwave and photosynthetically active radiation complement NDVI and near infrared reflectance of vegetation to explain gross photosynthesis variability across ecosystems and climate. Remote Sensing of Environment, 307, 114123. [https://doi.org/10.1016/j.rse.2024.114123](https://doi.org/10.1016/j.rse.2024.114123)

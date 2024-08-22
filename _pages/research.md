@@ -39,11 +39,12 @@ feature_row3:
         **Kang, Y.**, Ozdogan, M., Zhu, X., Ye, Z., Hain, C., & Anderson, M. (2020). Comparative assessment of environmental variables and machine learning algorithms for maize yield prediction in the US Midwest. *Environmental Research Letters*, *15*(6). [link](https://doi.org/10.1088/1748-9326/ab7df9) <br/> 
 
 feature_row4:
-  - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg
+  - image_path: assets/images/LAI_western_US.png
     title: "Remote Sensing of Vegetation States and Functions"
     excerpt: >
         Remote sensing has revolutionized our ability to understand and sustainably manage ecosystems across diverse spatial and temporal scales, enabling us to track global vegetation changes, monitor the global carbon cycle, advance precision agriculture, and enhance disaster and risk management, etc. Our mission is to develop robust methodologies and datasets that accurately quantify vegetation dynamics using across-platform remote sensing data, at the spatial and temporal scales crucial for scientific inquiry and informed decision-making. We place a strong emphasis on the comprehensive quantification of uncertainties in remote sensing based data and are committed to open science and open data. <br />
         <br />
+        **Key results**: <br />
         **Kang, Y.**, Ozdogan, M., Gao, F., et al. (2021). A data-driven approach to estimate leaf area index for Landsat images over the contiguous US. Remote Sensing of Environment, 258, 112383. [link](https://doi.org/10.1016/j.rse.2021.112383)  <br />
         **Kang, Y.**, Özdoğan, M., Zipper, S. C., et al. (2016). How universal is the relationship between remotely sensed vegetation indices and crop leaf area index? A global assessment. Remote Sensing, 8(7), 597. [link](https://doi.org/10.3390/rs8070597)  <br />
         Marshall, M., Okuto, E., **Kang, Y.**, et al. (2016). Global assessment of Vegetation Index and Phenology Lab (VIP) and Global Inventory Modeling and Mapping Studies (GIMMS) version 3 products. Biogeosciences, 13(3), 625–639. [link](https://doi.org/10.5194/bg-13-625-2016)      

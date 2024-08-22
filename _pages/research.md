@@ -16,10 +16,10 @@ feature_row1:
         Terrestrial ecosystems continuously exchange carbon, water, and energy with the atmosphere, processes that are fundamental to ecosystem functioning and crucial for regulating Earth’s climate. For instance, in recent decades, ecosystems have removed one-third of anthropogenic carbon emissions, partly mitigating climate change. Despite the importance, quantitatively understanding ecosystem carbon and water dynamics, especially in response to environmental and climatic changes, remains a significant challenge. This is due to the intrinsic complexity of these processes and a lack of direct observations at scale. We develop novel frameworks to robustly quantify ecosystem carbon and water dynamics, by integrating ground-based measurements (e.g. eddy covariance), satellite remote sensing, and advanced machine/deep learning. We answer fundamental questions on how ecosystem functions and services are changing, improving our predictive understanding of the Earth system. <br />
         <br />
         **Key results**: <br />
-        <p style="font-size:15px; ">
+        <p style="font-size:15px;">
         - CEDAR-GPP: a novel data-driven GPP dataset that comprehensively represent CO2 fertilization effect on global photosynthesis. **Kang, Y.**,  et al., 2024, ESSD [preprint](https://doi.org/10.5194/essd-2023-337)   <br />
         - Evaluating automated Machine Learning for quantifying ecosystem productivities. Gaber, M., **Kang, Y.** et al Biogeosciences, 2024. [paper](https://doi.org/10.5194/bg-21-2447-2024)  <br />
-        - A Transformer-based predictor of ecosystem photosynthesis dynamics:  Nakagawa, R., ... **Kang, Y.** (2023). CVPR MultiEarth Workshop. [preprint](https://arxiv.org/pdf/2306.13815.pdf) <p />
+        - A Transformer-based predictor of ecosystem photosynthesis dynamics:  Nakagawa, R., ... **Kang, Y.** (2023). CVPR MultiEarth Workshop. [preprint](https://arxiv.org/pdf/2306.13815.pdf) </p>
 
 feature_row2:
   - image_path: assets/images/LAI_StockSnap_OOP3TR13DA.jpg

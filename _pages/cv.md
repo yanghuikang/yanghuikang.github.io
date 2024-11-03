@@ -28,7 +28,7 @@ B.S. in Geographical Information System, Beijing Normal University
 ### Appointments
 
 `2024 Fall`
-Assistant Professor, Virginia Tech University
+Assistant Professor, Department of Biological Systems Engineering, Virginia Tech
 
 `2021-2024`
 Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley

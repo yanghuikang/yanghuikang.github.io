@@ -27,7 +27,10 @@ B.S. in Geographical Information System, Beijing Normal University
 
 ### Profesional Experience
 
-`2021-present`
+`2024 Fall`
+Assistant Professor, Virginia Tech
+
+`2021-2024`
 Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley
 
 `2020-2021`
@@ -42,14 +45,11 @@ Research Assistant, OpenET Project
 
 ### Grants and Awards
 
+`2024-2027`
+NASA Early Career Investigator Program 
+
 `2020-2021`
 SCINet Fellowship, USDA, Agricultural Research Service 
-
-`2020`
-Olmstead Award for Outstanding Publication, Geography, UW-Madison
-
-`2018`
-Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
 
 `2012-2015`
 NASA Earth and Space Science Fellowship

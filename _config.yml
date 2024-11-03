@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yanghui Kang
-email: yanghuikang@berkeley.edu
+email: yanghuikang@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a postdoctoral researcher at UC Berkeley interested in combining machine learning and knowledge to understand ecosystem-cliamte interactions.
+  Assistant Professor at the Department of Biological Systems Engineering at Virginia Tech
 # twitter_username: username
 github_username: yanghuikang
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Yanghui Kang"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Postdoctoral Reseracher <br /> University of California, Berkeley"
+  bio    : "Assistant Professor <br /> Virginia Tech"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

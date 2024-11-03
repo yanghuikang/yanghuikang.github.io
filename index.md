@@ -16,6 +16,7 @@ excerpt: ''
 </div> 
 
 ### News
+* **September 2024:** Presented our CEDAR-GPP work at the AmeriFlux Annual Meeting in Berkeley!
 * **March 2024:** Excited to receive the NASA early career investigator award for developing a remote sensing-based monitoring system for Nature-Based Climate Solutions.
 * **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
 * **December 2023:** For the second year in a row, hosted our innovative session on "Emerging Machine Learning Approaches for Process Understanding in Ecosystem Sciences" at AGU.

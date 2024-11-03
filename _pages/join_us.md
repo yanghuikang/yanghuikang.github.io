@@ -31,4 +31,5 @@ The application deadline for the Department of Biological Systems Engineering’
 
 ## Postdoc Opportunities
 
-We will have postdoc openings very soon in areas of nature-based climate solutions, remote sensing of ecosystems, deep learning, and agroecosystem modeling. Please stay tuned and do not hesitate to contact Dr. Yanghui Kang (<yanghuikang@vt.edu>) for more information. Please include a brief description of research interests and a CV in the email.
+We current have a postdoctoral researcher position in areas of nature-based climate solutions, remote sensing of ecosystems, deep learning, and agroecosystem modeling. Review will start after Nov 10, 2024. Detailed descrioption and application portal here: https://careers.pageuppeople.com/968/cw/en-us/job/531194/postdoctoral-research-associate
+

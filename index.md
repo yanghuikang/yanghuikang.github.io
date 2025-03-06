@@ -17,6 +17,7 @@ excerpt: ''
 * **December 2024:** Excited about the publicaiton of the [Prithvi 2.0 EO foundation model](https://arxiv.org/abs/2412.02732) by NASA and IBM, featuring our evaluation of its capabilities in ecosystem carbon flux estimation. [News](https://research.ibm.com/blog/prithvi2-geospatial)  
 * **December 2024:** Enjoyed an insightful discussions at our AGU session "Emerging Machine Learning Approaches for Process Understanding in Ecosystem Sciences" at AGU.  
 * **May 2024:** Our paper “Using Automated Machine Learning for the Upscaling of Gross Primary Productivity,” is published in [Biogeosciences](https://doi.org/10.5194/bg-21-2447-2024).
+* **September 2024:** Presented our CEDAR-GPP work at the AmeriFlux Annual Meeting in Berkeley!
 * **March 2024:** Excited to receive the NASA early career investigator award for developing a remote sensing-based monitoring system for Nature-Based Climate Solutions.
 * **Januray 2024:** Our OpenET benchmark paper, where I'm a co-author, is published at [Nature Water](https://www.nature.com/articles/s44221-023-00181-7), offering rigorous assesmsnet of satellite-derived evapotranspiration for resources management.
 * **December 2023:** Presented our CEDAR-GPP dataset at the AGU, offering vital spatiotemporal estimates of GPP that incorporates the CO2 fertilization effect.

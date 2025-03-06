@@ -25,10 +25,10 @@ M.S. in Environment and Resources, University of Wisconsin-Madison
 B.S. in Geographical Information System, Beijing Normal University
 
 
-### Profesional Experience
+### Appointments
 
 `2024 Fall`
-Assistant Professor, Virginia Tech
+Assistant Professor, Department of Biological Systems Engineering, Virginia Tech
 
 `2021-2024`
 Postdoctoral Researcher (Advisor: Trevor Keenan), University of California, Berkeley
@@ -46,7 +46,7 @@ Research Assistant, OpenET Project
 ### Grants and Awards
 
 `2024-2027`
-NASA Early Career Investigator Program 
+NASA Early Career Investigator Program
 
 `2020-2021`
 SCINet Fellowship, USDA, Agricultural Research Service 

@@ -51,12 +51,6 @@ NASA Early Career Investigator Program
 `2020-2021`
 SCINet Fellowship, USDA, Agricultural Research Service 
 
-`2020`
-Olmstead Award for Outstanding Publication, Geography, UW-Madison
-
-`2018`
-Best Poster Award, UCGIS Symposium and CaGIS AutoCarto
-
 `2012-2015`
 NASA Earth and Space Science Fellowship
 

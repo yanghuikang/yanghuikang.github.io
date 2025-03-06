@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Yanghui Kang
-email: yanghuikang@berkeley.edu
+email: yanghuikang@vt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an assistant professor at the Department of Biological Systems Engineering at Virginia Tech.
+Assistant Professor at the Department of Biological Systems Engineering at Virginia Tech
 # twitter_username: username
 github_username: yanghuikang
 minimal_mistakes_skin: default

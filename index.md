@@ -10,7 +10,7 @@ excerpt: ''
 ---
 
 # 🚀 Our Website Has Moved!
-**Our new website is live — please visit us at [www.eco-intelli.org](https://www.eco-intelli.org/) for the latest updates and resources.**
+## Combe visit us at [www.eco-intelli.org](https://www.eco-intelli.org/) for the latest updates and resources.
  
 <div style="background-color: #e9e9dc; padding: 10px;"> My research improves the monitoring of terrestrial ecosystem dynamics and deepens our understanding of vegetation-atmosphere interactions. Leveraging satellite remote sensing, machine learning, and process-based modeling, I track changes in canopy structure, carbon, and water dynamics and model their interactions with the climate across temporal and spatial scales. I am keen to build robust quantitative frameworks that guide sustainable land and water resource management to mitigate climate change. </div> 
 
